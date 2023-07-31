@@ -1,6 +1,12 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
 ![](https://brand.gatech.edu/sites/default/files/inline-images/GeorgiaTech_RGB_0.png)
+
+<div align="center">
+  
+  <a href="">[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</a>
+  <a href="">[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)</a>
+  
+</div>
+
 
 # ISYE 6740 Final Project
 This respository contains the code and writeup for my course final project. In the project, I explore a [common problem](https://www.businessinsider.com/iphone-face-id-not-working-with-mask-try-workaround-trick-2020-4) many iPhone users experienced during the height of the COVID-19 pandemic - that Face ID failed to work while they were wearing a face mask. I extend this exploration to see if similar results hold for iPhone users wearing sunglasses, and finally explore whether there is a certain amount of facial "obstruction" that induces a sharp dropoff facial recognition performance. 
